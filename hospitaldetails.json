@@ -1,0 +1,21 @@
+[
+    {
+      "hospital_id": 1,
+      "name": "Lords Hospital",
+      "patient_count": 250,
+      "location": "Lords Hospital,NH Bypass"
+    },
+    {
+      "hospital_id": 2,
+      "name": "KIMS Hospital",
+      "patient_count": 180,
+      "location": "KIMS Hospital,Venpalavattom"
+    },
+    {
+      "hospital_id": 3,
+      "name": "SP Fort Hospital",
+      "patient_count": 300,
+      "location": "SP Fort Hospital,West Fort"
+    }
+  ]
+  
